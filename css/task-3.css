@@ -1,0 +1,35 @@
+
+
+  .enter-window {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 16px;
+
+    border-radius: 8px;
+    padding: 24px;
+    max-width: 408px;
+    max-height: 136px;
+    background-color: #fff;
+  }
+  
+  .enter-form {
+    width: 360px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+     
+  }
+  
+  .enter-title {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .enter-name {
+     
+  }
+  
+ 
